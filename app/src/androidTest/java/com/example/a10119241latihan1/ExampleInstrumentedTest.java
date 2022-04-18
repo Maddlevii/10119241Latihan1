@@ -24,7 +24,7 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.a10119251latihan1", appContext.getPackageName());
     }
 }
-<!--Tanggal Pengerjaan : 18-19 April 2022-->
+<!--Tanggal Pengerjaan : 17-18 April 2022-->
 <!--NIM : 10119241-->
 <!--Nama : Ahmad Fahmi Fahlevi-->
 <!--Kelas : IF6-->
