@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-<!--Tanggal Pengerjaan : 18-19 April 2022-->
+<!--Tanggal Pengerjaan : 17-18 April 2022-->
 <!--NIM : 10119241-->
 <!--Nama : Ahmad Fahmi Fahlevi-->
 <!--Kelas : IF6-->
